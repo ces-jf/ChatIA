@@ -1,0 +1,4 @@
+gpt4all>=2.8.2
+langchain>=0.3.25
+langchain-community>=0.3.23
+langchain-core>=0.1.32
